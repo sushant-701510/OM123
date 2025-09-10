@@ -6,3 +6,4 @@ b=int(input("enter the base of the triangle:"))
 h=int(input("enter the heigt of the triangle:"))
 a=(b*h)*0.5
 print("the area of the triangle:",a)
+print("king")
