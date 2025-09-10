@@ -1,0 +1,6 @@
+#NAME OM SINGH,ADMISSION NUMBER 23SCSE1430328
+#QUESTION NUMBER-1
+#PYTHOn PROGRAM TO CONVERT THE TEMPRATURE IN DEGREE CENTIGRADE TO DEGREE FAHRENHEIT
+c=int(input("enter the degree centigrade:"))
+f=(c*9/5)+32
+print("the degree farenhiet is ;",f)
