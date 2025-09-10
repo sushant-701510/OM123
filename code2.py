@@ -4,3 +4,4 @@
 c=int(input("enter the degree centigrade:"))
 f=(c*9/5)+32
 print("the degree farenhiet is ;",f)
+print("current solution according to you")
